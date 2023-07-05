@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+img{
+    cursor: pointer;
+}
+.img-bus{
+    padding-left: 120px;
+}
+.nav-bar{
+    width: 100%;
+    height: 90px;
+    color: #4a4a4a;
+    background: #fff;
+    border: 1px solid ;
+    
+   
+}
+.left-nav img{
+    margin-top: 12px;
+}
+.bus-ticket img{
+    margin-top: 10px;
+}
+.cab-rent img{
+    margin-top: 10px;
+}
+.train-ticket img{
+    margin-top: 8px;
+}
+.mid-left{
+    
+    display: flex;
+    padding-left: 124px;
+    
+}
+.nav-container{
+    display: flex;
+    align-items: center;
+}
+.bus-ticket{
+    padding-left: 10px;
+   
+}
+.cab-rent{
+    padding-left: 30px;
+   
+}
+.train-ticket1{
+    padding-left: 30px;
+    padding-top: 10px;
+   
+}
+.right-nav{
+    padding-left: 500px;
+    display: flex;
+}
+.right-nav-img{
+    width: 32px;
+    height: 29px;
+}
+.account-img{
+    width: 32px;
+    height: 29px;
+}
+.account{
+    padding-left: 100px;
+}
+.img-container{
+   
+    width: 100%;
+    height:  630px;
+    background-image: url(https://s3.rdbuz.com/web/images/homeV2/HomeBannerImg.svg);
+    background-color: #f2eaead2;
+    align-content: center;
+    position: absolute;
+    
+}
+.search{
+    display: flex;
+    width: 920px;
+    height: 112px;
+    margin-top: 130px;
+    margin-left: 272px;
+    border-radius: 15px;
+    border: 1px solid;
+
+    
+   
+}
+.sub-div-1{
+    margin-left: 20px; 
+    margin-top: 40px;
+    display: flex;
+}
+.sub-div-2{
+    margin-left: 150px;
+    margin-top: 40px;
+    display: flex;
+}
+.sub-div-3{
+    margin-left: 150px;
+    margin-top: 40px;
+    display: flex;
+}
+.sub-div-1 img{
+    height: 26px;
+    width: 35px;
+}
+.sub-div-2 img{
+    height: 26px;
+    width: 35px;
+}
+.sub-div-3 img{
+    height: 26px;
+    width: 35px;
+}
+.sub-div-4{
+   
+    background: crimson;
+    color: #fff;
+    margin-left: 240px;
+    border-radius: 15px;
+    cursor: pointer;
+    
+}
+.trending{
+    background: #fff;
+    height: 255px;
+    width: 932px;
+    margin-top: 126px;
+    margin-left: 273px;
+    border: 1px solid;
+    border-radius: 20px;
+    
+}
+.trending h1{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.trending-container{
+    display: flex;
+    margin-top: 50px;
+    height: 130px;
+    margin-left: 64px;
+
+}
+.offer1{
+    background: rgb(56, 56, 227);
+    margin-left: 10px;
+    width: 250px;
+    border-radius: 15px;
+    cursor: pointer;
+    
+}
+.offer2{
+    background: #5863d6;
+    margin-left: 20px;
+    width: 250px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.offer3{
+    background: brown;
+   margin-left: 20px;
+   width: 250px;
+   border-radius: 15px;
+   cursor: pointer;
+}
+.offer1 img{
+    border-radius: 50%;
+    height: 45px;
+}
+.offer2 img{
+    border-radius: 50%;
+    height: 45px;
+}
+.offer3 img{
+    border-radius: 50%;
+    height: 45px;
+}
+.content{
+    height: 500px;
+    width: 100%;
+    background: #fff;
+    margin-top: 631px;
+    display: flex;
+}
+.rental-train{
+    display: flex;
+    margin-top: 25px;
+}
+.cab-rental{
+    height: 60px;
+    width: 220px;
+    background: brown;
+    border: 1px solid;
+    border-radius: 10px;
+    display: flex;
+}
+.train-ticket{
+    height: 60px;
+    width: 220px;
+    background: #fff;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+.para1{
+    font-size: 40px;
+}
+.left-content{
+    padding-left: 130px;
+    padding-top: 200px;
+}
+.cab-rental img{
+    height: 57px;
+    width: 54px;
+    margin-left: 15px;
+    color: white;
+}
+.cab-rental p{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: white;
+}
+.train-ticket{
+    display: flex;
+}
+.train-ticket img{
+    height: 50px;
+    width: 50px;
+}
+.train-ticket p{
+    margin-top: 17px;
+    margin-left: 5px;
+}
+.left-content .para2{
+    margin-top: 45px;
+}
+.form1{
+    margin-top: 50px;
+}
+.right-content{
+    margin-top: 200px;
+}
+.left-content h3{
+    margin-top: 45px;
+}
+
+
+
+
+
